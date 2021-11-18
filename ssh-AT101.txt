@@ -1,6 +1,6 @@
 Document.Open();
 wait(CONNECT);
 sopen(OPEN_LOOK);
-swait(3,"$");
+swait(2,"$");
 sputs("ssh at101\r");
 sclose();
