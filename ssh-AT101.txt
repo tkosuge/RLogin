@@ -4,3 +4,4 @@ sopen(OPEN_LOOK);
 swait(2,"$");
 sputs("ssh at101\r");
 sclose();
+# New1
