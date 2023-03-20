@@ -6,3 +6,4 @@ sputs("ssh at101\r");
 sclose();
 # New1
 # New2
+# Henkou 2 kaime.
