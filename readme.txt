@@ -1,1 +1,2 @@
-readme desu.
+# readme desu.
+script wo okimashita.
